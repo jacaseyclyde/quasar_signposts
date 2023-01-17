@@ -1,0 +1,67 @@
+---
+a0:
+    min: !!float .5
+    max: !!float 3
+    init:
+        min: !!float .8316
+        max: !!float .8816
+a1:
+    min: !!float -2
+    max: !!float .5
+    init:
+        min: !!float -.2778
+        max: !!float -.2452
+a2:
+    min: !!float -.5
+    max: !!float .5
+    init:
+        min: !!float .0189
+        max: !!float .0211
+b0:
+    min: !!float 2
+    max: !!float 5
+    init:
+        min: !!float 2.5188
+        max: !!float 2.5552
+b1:
+    min: !!float -5
+    max: !!float 5
+    init:
+        min: !!float -1.0607
+        max: !!float -1.0261
+b2:
+    min: !!float -5
+    max: !!float 5
+    init:
+        min: !!float 1.0994
+        max: !!float 1.1400
+c0:
+    min: !!float 44
+    max: !!float 48
+    init:
+        min: !!float 12.9997
+        max: !!float 13.0178
+c1:
+    min: !!float -1
+    max: !!float 3
+    init:
+        min: !!float -0.5779
+        max: !!float -0.5741
+c2:
+    min: !!float -1
+    max: !!float 3
+    init:
+        min: !!float 0.4527
+        max: !!float 0.4582
+d0:
+    min: !!float -15
+    max: !!float 5
+    init:
+        min: !!float -3.5635
+        max: !!float -3.5191
+d1:
+    min: !!float -1
+    max: !!float 1
+    init:
+        min: !!float -0.4009
+        max: !!float -0.3866
