@@ -91,8 +91,5 @@ target/
 # slides/other untracked reports
 *.pptx
 *.key
-reports/figures/saltus/
-*.txt
-reports/update_slides/
-reports/figures/
-models/
+/reports/figures/saltus/
+/reports/update_slides/
